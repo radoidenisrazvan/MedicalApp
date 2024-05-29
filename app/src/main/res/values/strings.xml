@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">MedicalHelp</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string-array name="disease_array">
+        <item>Răceală</item>
+        <item>Gripă</item>
+        <item>Febră</item>
+
+    </string-array>
+    
+    <string name="boala_gripa">Gripă</string>
+    <string name="boala_raceala">Răceală</string>
+    <string name="boala_febra">Febra</string>
+    <string name="boala_tuse">Tuse</string>
+    <string name="boala_septicemie">Septicemie</string>
+    <string name="boala_insuficienta_hepatica">Insuficienta Hepatica</string>
+    <string name="boala_diabet_zaharat">Diabet zaharat</string>
+    <string name="boala_Pneumonie">Pneumonie</string>
+
+    <!-- Recomandari pentru gripă -->
+    <string name="gripa_recomandari">- Stați la pat și odihniți-vă.\n- Beți multe lichide.\n- Luați medicamente antipiretice și decongestionante.</string>
+    <string name="gripa_detalii_pilula">Nurofen 400 mg: Luați 1 comprimat la fiecare 6 ore, maxim 4 comprimate pe zi.</string>
+
+    <!-- Recomandari pentru răceală -->
+    <string name="raceala_recomandari">- Beți ceaiuri calde.\n- Faceți gargara cu apă sărată.\n</string>
+    <string name="raceala_detalii_pilula">Paracetamol 500 mg: Luați 1 comprimat la fiecare 8 ore, maxim 3 comprimate pe zi.</string>
+
+    <!-- Recomandari pentru febră -->
+    <string name="febra_recomandari">- Rămâneți hidratat.\n- Luați medicamente antipiretice.</string>
+    <string name="febra_detalii_pilula">Aspirină 500 mg: Luați 1 comprimat la fiecare 4 ore, maxim 3 comprimate pe zi.</string>
+
+    <!-- Recomandari pentru tuse -->
+    <string name="tuse_recomandari">Evită fumatul și sta într-un mediu umed. Poți lua sirop pentru tuse pentru a ameliora simptomele.</string>
+    <string name="tuse_detalii_pilula">ACC 200, 20 capsule, Sandoz. Luați 1 capsulă de 3 ori pe zi </string>
+
+    <!-- Recomandari pentru dureri de gât -->
+    <string name="dureri_de_gat_recomandari">- Faceți gargară cu apă sărată.\n- Beți lichide calde.\n- Folosiți pastile de supt pentru dureri de gât.</string>
+    <string name="dureri_de_gat_detalii_pilula">Strepsils: Luați 1 pastilă de supt la fiecare 2-3 ore, maxim 8 pastile pe zi.</string>
+
+    <!-- Recomandari pentru Septicemie -->
+    <string name="septicemie_recomandari">Consultați de urgență un medic.\n- Urmați tratamentul prescris care poate include antibiotice intravenoase și alte medicamente.\n- Rămâneți internat în spital pentru monitorizare și tratament intensiv.</string>
+    <string name="septicemie_detalii_pilula">Ciprofloxacin 500 mg: Luați 1 comprimat de 2 ori pe zi, conform indicațiilor medicului.</string>
+
+    <!-- Recomandari pentru Insuficienta hepatica -->
+    <string name="insuficineta_hepatica_recomandari">Evitați consumul de alcool.\n- Mențineți o dietă sănătoasă și echilibrată.\n- Consultați medicul pentru tratament specific</string>
+    <string name="insuficineta_detalii_pilula">Liv 52: Luați 2 comprimate de 2 ori pe zi, conform indicațiilor medicului.</string>
+
+    <!-- Recomandari pentru Diabet zaharat -->
+    <string name="diabet_zaharat_recomandari">Monitorizați-vă regulat nivelul glicemiei.\n- Mențineți o dietă echilibrată și faceți exerciții fizice regulate.\n- Urmați tratamentul prescris de medic.</string>
+    <string name="diabet_zaharat_detalii_pilula">Metformin 500 mg: Luați 1 comprimat de 2-3 ori pe zi, conform indicațiilor medicului.</string>
+
+    <!-- Recomandari pentru Pneumonie -->
+    <string name="pneumonie_recomandari">Odihniți-vă și beți multe lichide.\n- Urmați tratamentul cu antibiotice prescris de medic.\n- Monitorizați simptomele și consultați medicul pentru orice agravare.</string>
+    <string name="pneumonie_detalii_pilula">Amoxicilină 500 mg: Luați 1 comprimat de 3 ori pe zi, conform indicațiilor medicului.</string>
+
+
+
+</resources>
+

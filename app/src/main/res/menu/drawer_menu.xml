@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:title="Home" />
+    <item
+        android:id="@+id/nav_login"
+        android:title="Login" />
+    <item
+        android:id="@+id/nav_register"
+        android:title="Register" />
+    <item
+        android:id="@+id/nav_select_disease"
+        android:title="Select Disease" />
+    <item
+        android:id="@+id/nav_reminder"
+        android:title="Set Reminder" />
+    <item
+        android:id="@+id/nav_help"
+        android:title="Help" />
+    <item
+        android:id="@+id/nav_review"
+        android:title="Review" />
+    <item
+        android:id="@+id/nav_logout"
+        android:title="Logout" />
+
+</menu>

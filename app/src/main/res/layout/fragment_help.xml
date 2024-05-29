@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HelpFragment">
+
+    <TextView
+        android:id="@+id/helpTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:text="Cum să utilizați aplicația:\n\n1. Selectați o boală din lista derulantă.\n2. Veți vedea recomandările și detaliile pastilelor.\n3. Apăsați pe fiecare element pentru mai multe informații.\n\nUrmăriți videoclipul de mai jos pentru o demonstrație."
+        android:textSize="16sp" />
+
+    <VideoView
+        android:id="@+id/helpVideoView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/helpTextView"
+        android:layout_marginTop="16dp" />
+
+</RelativeLayout>
